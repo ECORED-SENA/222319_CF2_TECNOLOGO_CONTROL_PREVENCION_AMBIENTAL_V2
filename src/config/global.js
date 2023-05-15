@@ -87,7 +87,12 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar PDF',
+        download: 'downloads/pdf.pdf',
+      },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
