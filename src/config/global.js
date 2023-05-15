@@ -100,132 +100,117 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Arboleda, J. A. (2008). Manual de evaluación de impacto ambiental de proyectos, obra o actividades. Medellin, Colombia.',
+      link: 'https://doi.org/10.1017/CBO9781107415324.004',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Conesa V. (1993). La Evaluación del Impacto Ambiental. (2da ed.). Mundi Prensa: Madrid, España.',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Decreto 2820/2010. [Presidencia de la República]. Por el cual se reglamenta el Título VIII de la Ley 99 de 1993 sobre licencias ambientales.',
+      link: '',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'ICONTEC. (2009) GTC 104 Gestión del Riesgo Ambiental, Principios y Procesos. Agosto 5 de 2010.',
+      link: '',
+    },
+    {
+      referencia:
+        'ICONTEC. (2015).  Norma NTC-ISO 14001 Sistema de gestión ambiental.',
+      link: '',
+    },
+    {
+      referencia: 'Wikipedia. (2020). Línea de base (medio ambiente).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://es.wikipedia.org/wiki/L%C3%ADnea_de_base_(medio_ambiente)#:~:text=Se%20entiende%20por%20l%C3%ADnea%20de,influencia%20de%20nuevas%20intervenciones%20antr%C3%B3picas.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Aspecto ambiental',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'elemento de las actividades, productos o servicios de una organización que interactúa o puede interactuar con el medio ambiente. (NTC ISO 14001:2015)',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Ciclo de vida',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'etapas consecutivas e interrelacionadas de un sistema de producto (o servicio) , desde la adquisición de materia prima o su generación a partir de recursos naturales hasta la disposición final. (NTC ISO 14001:2015)',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Evaluación de Impacto Ambiental',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'se entiende por Evaluación de Impacto Ambiental, el conjunto de estudios y sistemas técnicos que permiten estimar los efectos que la ejecución de un determinado proyecto, obra o actividad, causa sobre el medio ambiente, el cual tiene la identificación de los aspectos e impactos ambientales por medio de metodologías cuantitativas y/o cualitativas como puede ser el desarrollo de matrices de impacto ambiental.  (Vicente Conesa -Guia Metodologica para la Evaluaciòn del Impacto Ambiental).',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Factores ambientales',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'factores ambientales o parámetros ambientales, englobamos los diversos componentes del Medio Ambiente entre los cuales se desarrolla la vida en nuestro planeta. Son el soporte de toda actividad humana.  Son susceptibles de ser modificados por los humanos y estas modificaciones pueden ser grandes y ocasionar graves problemas, generalmente difíciles de valorar ya que suelen ser a medio o largo plazo, o bien problemas menores y entonces son fácilmente soportables.   Los factores ambientales considerados son:  • El hombre, la flora y la fauna.  • El suelo, el agua, el aire, el clima y el paisaje. Las interacciones entre los anteriores.  • Los bienes materiales y el patrimonio cultural. (Conesa, V. 1993).',
     },
     {
-      termino: 'Moda',
+      termino: 'Línea Base Ambiental',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es la descripción de la situación actual, en la fecha del estudio, sin influencia de nuevas intervenciones antrópicas. En otras palabras, es la fotografía de la situación ambiental imperante, considerando todas las variables ambientales, en el momento que se ejecuta el estudio. Se consideran todos los elementos que intervienen en una evaluación de impacto ambiental y una situación crítica, reseñando actividad humana actual, estado y situación de la biomasa vegetal y animal, clima, suelos, etc. (Wikipedia, 2020).',
     },
     {
-      termino: 'Diseña',
+      termino: 'Impacto ambiental',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'cambio en el medio ambiente, ya sea adverso o beneficioso como resultado total o parcial de los aspectos ambientales de una organización. (NTC ISO 14001:2015).',
     },
     {
-      termino: 'DIseño',
+      termino: 'Medio ambiente',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'entorno en el cual una organización opera, incluidos el aire, el agua, el suelo, los recursos naturales, la flora, la fauna, los seres humanos y sus interrelaciones. (NTC ISO 14001:2015).',
     },
     {
-      termino: 'Tipología',
+      termino: 'Proceso',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'conjunto de actividades interrelacionadas o que interactúan, que transforman las entradas en salidas (NTC ISO 14001:2015).',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Plan de manejo ambiental',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'es el conjunto detallado de medidas y actividades que, producto de una evaluación ambiental, están orientadas a prevenir, mitigar, corregir o compensar los impactos y efectos ambientales debidamente identificados, que se causen por el desarrollo de un proyecto, obra o actividad. Incluye los planes de seguimiento, monitoreo, contingencia, y abandono según la naturaleza del proyecto, obra o actividad. (Decreto 2820/2010 art. 1).',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Prevención de la contaminación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'utilizaciòn de procesos, prácticas, técnicas, materiales, productos, servicios o energía para evitar, reducir o controlar (en forma separada o en combinación) la generación, emisión o descarga de cualquier tipo de contaminante o residuo, con el fin de reducir impactos ambientales adversos. (NTC ISO 14001:2015).',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Impacto ambiental',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Noticias Caracol (2018 agosto 12). Ituango vive la peor crisis tras emergencia del proyecto hidroeléctrico | Noticias Caracol [video]. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/buPSHHPnPzk',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Impacto ambiental',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Arboleda, J. (2008) Manual de Evaluación de Impacto Ambiental de Proyectos, Obras o Actividades. p. 18.',
+      tipo: 'Libro',
+      link: 'https://www.academia.edu/34461272/Manual_EIA_Jorge_Arboleda_1_',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Impacto ambiental',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Arboleda, J. (2008). Anexos al manual de evaluación de impacto ambiental de proyectos, obras o actividades, en Manual de Evaluación de Impacto Ambiental de Proyectos, Obras o Actividades, p.15-18.   ',
+      tipo: 'PDF',
+      link:
+        'https://docplayer.es/41432935-Manual-para-la-evaluacion-de-impacto-ambiental-de-proyectos-obras-o-actividades-anexos.html',
+    },
+    {
+      tema: 'Valoración de impactos y riesgos ambientales',
+      referencia:
+        'ICONTEC. (2009) Guía técnica colombiana GTC 104 Gestión del riesgo Ambiental Principios y proceso.',
+      tipo: 'PDF',
+      link: 'https://docplayer.es/86811895-Guia-tecnica-colombiana-104.html',
     },
   ],
   creditos: [
@@ -234,13 +219,14 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -248,9 +234,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Diana Carolina Triana Guarnizo',
+          cargo: 'Instructor',
+          centro: 'Centro de Gestión Indutrial',
+        },
+        {
+          nombre: 'Juan Carlos Cárdenas Sánchez',
+          cargo: 'Instructor',
+          centro: 'Centro de Gestión Indutrial',
+        },
+        {
+          nombre: 'Miroslava González Hernández',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
         },
       ],
     },
@@ -258,14 +255,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Francisco Jose Lizcano Reyes',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
         },
         {
           nombre: 'Nombre',

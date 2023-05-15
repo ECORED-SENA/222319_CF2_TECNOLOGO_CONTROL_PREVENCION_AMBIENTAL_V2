@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El diagnóstico ambienta, aunque no es un proceso único o estándar para todas las organizaciones, pues depende de determinados factores, sí requiere de la implementación de técnicas y métodos que contribuyen a la identificación del contexto de la organización,  sus componentes ambientales y la evaluación de impacto y riesgos ambientales que permiten priorizar acciones y proponer planes de manejo ambiental. Lo anterior visto en este componente se sintetiza en el siguiente gráfico.
 
     .row.justify-content-center
       .col-lg-10.mb-5
