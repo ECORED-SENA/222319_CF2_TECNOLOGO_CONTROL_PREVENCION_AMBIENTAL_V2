@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
+
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
@@ -274,21 +274,21 @@
                       p.mb-0 Cuando la acción de un proyecto o actividad, aún si tiene una magnitud considerable, produce cambios menores en la estructura o propiedades del componente sobre el cual actúa.
           .col-lg-10.p-4.bg-white
             p.mb-0 Estas condiciones de acogida o sensibilidad se obtienen de los resultados de la evaluación ambiental, pero muchas veces también puede estar definida por los planes de ordenamiento territorial o las normas de usos del suelo.
-    p En respuesta a la forma como se ejecuta o realiza la acción que produce el impacto y de acuerdo con las condiciones del factor ambiental que está siendo afectado por dicha acción (línea base), se generan características especiales en los impactos, que le establecen atributos particulares a cada uno de ellos.  
+    p En respuesta a la forma como se ejecuta o realiza la acción que produce el impacto y de acuerdo con las condiciones del factor ambiental que está siendo afectado por dicha acción (línea base), se generan características especiales en los impactos, que le establecen atributos particulares a cada uno de ellos.
     p.mb-5 #[b Identificar estas particularidades es la mayor dificultad en las evaluaciones y por eso la mayoría de los métodos de evaluación tratan de calificar algunos de estos atributos con el fin de determinar la significación o gravedad del impacto].
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-acento-botones1.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/tema2/img24.svg")
+              img(src="@/assets/curso/tema2/img24.svg", alt='')
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-1 #[b Características de los impactos ambientales]
                   p En la siguiente tabla se presenta una lista de algunas de estas características, obtenida del libro de Vicente Conesa, (1997) Guía metodológica para la evaluación de impacto ambiental.
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/caracteristicas_impactos_ambientales.pdf')" target="_blank")
                     span(style="color: #000 !important") Abrir
     .row.mb-4
       .col-auto.bg-c6
@@ -299,21 +299,21 @@
         .row
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema2/img4.png', style="width: 430px").m-auto
+              img(src='@/assets/curso/tema2/img4.png', style="width: 430px", alt='').m-auto
           .col-lg-8
             p.mb-0 #[b La gestión del riesgo comprende la cultura], procesos y estructuras que se orientan hacia el aprovechamiento de las oportunidades potenciales al tiempo que se manejan los efectos adversos. (ICONTEC, 2006).
     .row.mb-4
       .col-12.bg-c11.py-3
-        p La gestión del riesgo concierne a todo el mundo y nunca es responsabilidad exclusiva de la alta dirección, los gerentes ni del consultor de riesgos de la organización. Exige el compromiso y la energía desde la alta dirección hasta los empleados, quienes pueden ser los primeros en ver un incidente, un peligro potencial o una oportunidad de mejora. La información de entrada también puede provenir de las partes interesadas. 
+        p La gestión del riesgo concierne a todo el mundo y nunca es responsabilidad exclusiva de la alta dirección, los gerentes ni del consultor de riesgos de la organización. Exige el compromiso y la energía desde la alta dirección hasta los empleados, quienes pueden ser los primeros en ver un incidente, un peligro potencial o una oportunidad de mejora. La información de entrada también puede provenir de las partes interesadas.
         p Como lo ilustra la trayectoria de retroalimentación todo el proceso de gestión del riesgo es iterativo. #[b El proceso se puede repetir muchas veces con criterios adicionales o modificados para la evaluación del riesgo que conducen a un proceso de mejora continua].
     .titulo-sexto.color-acento-contenido.mb-4
       p.mb-0 Figura 2. Panorama general de la gestión del riesgo
     figure.mb-4
-      img(src='@/assets/curso/tema2/img27.svg', style="width: 930px").m-auto
+      img(src='@/assets/curso/tema2/img27.svg', style="width: 930px", alt='').m-auto
     .row.mb-5
       .col-auto
         p.txt-c2 Tomado de ICONTEC. (2009) Guía técnica colombiana GTC 104 Gestión del riesgo Ambiental Principios y proceso; p.2.
-    p El riesgo ambiental se origina en la relación entre los seres humanos, sus actividades y el ambiente. La gestión del riesgo ecológico, que trata sobre los riesgos asociados con las actividades humanas pasadas, presentes y futuras sobre la flora, la fauna y los ecosistemas, es un subconjunto de la gestión del riesgo ambiental. 
+    p El riesgo ambiental se origina en la relación entre los seres humanos, sus actividades y el ambiente. La gestión del riesgo ecológico, que trata sobre los riesgos asociados con las actividades humanas pasadas, presentes y futuras sobre la flora, la fauna y los ecosistemas, es un subconjunto de la gestión del riesgo ambiental.
     p.mb-5 #[b Los riesgos ambientales se pueden agrupar en dos categorías: Riesgo para el ambiente y Riesgo para una organización debido a temas relacionados con el ambiente].
     .row.justify-content-center.align-items-center
       .col-lg-6.mb-4.mb-lg-0
@@ -332,7 +332,7 @@
               p.mb-0 La gestión del riesgo ambiental proporciona un conjunto formal de procesos que ayuda en la toma de decisiones que afectan el ambiente y orienta a los encargados de tomar decisiones en lo relativo a tratar la incertidumbre.
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema2/img5.png', style="width: 450px").m-auto
+          img(src='@/assets/curso/tema2/img5.png', style="width: 450px", alt='').m-auto
 
 </template>
 

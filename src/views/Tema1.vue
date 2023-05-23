@@ -17,14 +17,16 @@
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
         figure.mb-3
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 550px").m-auto
-        .titulo-sexto.color-acento-contenido.mb-0
-          p.mb-0 Figura 1. Postulados del desarrollo sostenible
+          img(src='@/assets/curso/tema1/img1.svg', style="width: 550px", alt='').m-auto
+
       .col-lg-6
         .row
           .col-12.bg-c2.p-4
             p El resultado de esta relación proyecto-ambiente a lo largo del tiempo ha conducido a un proceso de deterioro o pérdida de la calidad ambiental que se ha acentuado en las últimas décadas, llegando a extremos preocupantes, en algunas ocasiones insostenibles o desembocando en situaciones de tipo global, que están poniendo en riesgo la salud, el bienestar y aún la supervivencia del ser humano.
             p.mb-0 Esta situación ha generado entonces un movimiento mundial que busca revertir, o por lo menos reducir esta tasa de deterioro, que se ha consolidado dentro del concepto de desarrollo sostenible que se empezó a acuñar desde la cumbre de Río. #[b Para consolidar los postulados del desarrollo sostenible, se han propuesto diferentes estrategias y mecanismos, tales como las que se muestra en la siguiente infografía].
+
+    .titulo-sexto.color-acento-contenido.ms-0.mb-4.ml-0
+      p.mb-0 Figura 1. Postulados del desarrollo sostenible
     .row.mb-5
       .col-12.bg-c3.p-4
         .row.justify-content-center
@@ -59,7 +61,7 @@
             .row
               .col-auto.ps-0
                 figure
-                  img(src='@/assets/curso/tema1/img6.svg', style="width: 80px").m-auto
+                  img(src='@/assets/curso/tema1/img6.svg', style="width: 80px", alt='').m-auto
               .col.p-4
                 p.mb-0 También se destaca la Evaluación de Impacto Ambiental (EIA). Herramienta que permite determinar no solo las consecuencias ambientales de cualquier emprendimiento, sino también proponer las acciones necesarias para atender dichas secuelas.
     p.mb-5 Sin embargo, se debe tener presente que el hecho de que un proyecto o actividad altere significativamente el ambiente, no significa que no sea viable, ya que la viabilidad no se mide por la generación de impactos positivos o negativos sino por la capacidad del ambiente de recuperarse ya sea por medios naturales o artificiales y de los promotores de los proyectos de hacer un manejo adecuado de los impactos; de tal forma, que se pueda garantizar un nuevo equilibrio proyecto ambiente que refleje en términos absolutos una igual o mejor calidad en las condiciones del ambiente afectado.
@@ -68,7 +70,7 @@
         .row.align-items-center
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema1/img2.png', style="width: 300px").m-auto
+              img(src='@/assets/curso/tema1/img2.png', style="width: 300px", alt='').m-auto
           .col-lg-8
             p.mb-0 Es por eso que se puede decir en términos generales que el objetivo de la evaluación de impacto ambiental, es encontrar las soluciones que den armonía a la relación proyecto/sistema ambiental.
     p.mb-5 De lo que se trata es de estudiar el medio, descubrir los procesos y funciones de sus componentes, analizar su sensibilidad, o sea el grado de vulnerabilidad, sus debilidades y fortalezas, para diagnosticar su real capacidad de recuperación frente a las acciones y procesos producidos por la obra y su energía desplegada, y suplir con medidas artificiales los desajustes de la relación proyecto/ambiente.” (Charla del profesor Manuel Zárate, Panamá, 2004) (Citado por Arboleda, J. A. (2008).
@@ -77,14 +79,14 @@
         .tarjeta.color-secundario.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/tema1/img8.svg")
+              img(src="@/assets/curso/tema1/img8.svg", alt='')
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-1 #[b Proyecto hidroléctrico]
                   p.text-white Se sugiere visualizar el video que se encuentra en el material de apoyo, el cual presenta la crisis enfrentada en Ituango por el proyecto hidroeléctrico.
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=buPSHHPnPzk" target="_blank")
                     span(style="color: #000 !important") Ver Video
                     i.fab.fa-youtube(style="color: #000 !important")
     p.mb-5 #[b Las bases conceptuales, entonces, para la evaluación y valoración de los aspectos, impactos y riesgos ambientales se pueden apreciar en el siguiente recurso.]
@@ -96,21 +98,21 @@
             p.mb-0 Si el impacto ambiental es el resultado de la interacción entre un proyecto o actividad propuesta y el ambiente, para identificar los impactos es indispensable empezar por un buen conocimiento del proyecto, obra o actividad propuesto, de sus componentes, sus procesos constructivos y operativos, las etapas de desarrollo que comprende, etc.
           .col-lg-8
             figure
-              img(src='@/assets/curso/tema1/img3.png', style="width: 650px").m-auto
+              img(src='@/assets/curso/tema1/img3.png', style="width: 650px", alt='').m-auto
         .row.m-1
           .col-lg-4.mb-4.mb-lg-0
             h4 Describir procesos
             p.mb-0 Es por esto que es indispensable describir cuáles son los procesos que se llevan a cabo al interior de la organización o proyecto para llegar a la identificación de los aspectos e impactos ambientales.
           .col-lg-8
             figure
-              img(src='@/assets/curso/tema1/img4.png', style="width: 650px").m-auto
+              img(src='@/assets/curso/tema1/img4.png', style="width: 650px", alt='').m-auto
         .row.m-1
           .col-lg-4.mb-4.mb-lg-0
             h4 Realizar análisis técnico
             p.mb-0 Se requiere entonces realizar una lectura de la información técnica, de ingeniería y operacional del proyecto “con ojos ambientales”, es decir, realizar un análisis de la documentación correspondiente con la finalidad de detectar aquellas acciones (actividades, operaciones, procedimientos, elementos, aspectos, tareas, etc.) del proyecto, obra o actividad que están relacionándose de cualquier manera con el medio ambiente, porque son éstas las que producirán, directa o indirectamente, los cambios en algunos de los componentes de dicho entorno. Estas acciones se denominan: Acciones susceptibles de producir impacto (ASPI), por tanto, se requiere identificar los aspectos e impactos relacionados.
           .col-lg-8
             figure
-              img(src='@/assets/curso/tema1/img5.png', style="width: 650px").m-auto
+              img(src='@/assets/curso/tema1/img5.png', style="width: 650px", alt='').m-auto
     .row.mb-4
       .col-auto.bg-c6
         h3.mb-0.px-4.py-3.text-white Aspectos e impactos ambientales
@@ -118,12 +120,12 @@
     .row.align-items-center
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema1/img6.png', style="width: 550px").m-auto
+          img(src='@/assets/curso/tema1/img6.png', style="width: 550px", alt='').m-auto
       .col-lg-8
         .row
           .col-12.p-4.bg-c7
             p.mb-0 #[b De igual forma, se puede resumir que es indispensable identificar los componentes ambientales en el área de influencia directa e indirecta] y comprender los procesos a los que se dedica la organización a manera de plano de localización y diagrama de flujo de procesos, tal y como se ejemplifica en las páginas 24 a 26 del Manual de Evaluación de Impactos Ambientales para proyectos, obra actividades, de Arboleda (2008).
-        
+
 </template>
 
 <script>
