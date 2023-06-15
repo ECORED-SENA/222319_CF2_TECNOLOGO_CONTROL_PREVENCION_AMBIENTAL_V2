@@ -15,10 +15,11 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Esta valoración es el resultado del proceso de análisis y procesamiento de la información recolectada, por medio del cual se valora o cualifica la calidad de los componentes y factores del ambiente estudiado, permitiendo entonces sacar conclusiones sobre su importancia y apoyar de esta manera la toma de decisiones sobre las posibilidades de intervenirlo con el proyecto o de conservarlo en su estado actual. Los tipos de valor se clasifican, según Arboleda (2008), de esta manera:
     .row.mb-5
-      .col-12.bg-c3.p-4
-        p.text-center.mb-5 #[b Los tipos de valor se clasifican, según Arboleda (2008), de esta manera:]
+      .col-12.bg-c3.p-4.py-5
         .row.justify-content-center
           .col-lg-10
+            h4.mb-1 Tipos de valor
+            p.mb-5 Los tipos de valor se clasifican, según Arboleda (2008), de esta manera:
             TabsA.color-primario.mb-5
               .tarjeta.color-acento-botones.p-4(titulo="Ecológico")
                 .row
@@ -67,175 +68,349 @@
             figure
               img(src='@/assets/curso/tema2/img2.png', style="width: 350px").m-auto
           .col-lg-7
-            SlyderA
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img5.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Extensión]. Refleja el área de influencia en relación con el entorno. A mayor extensión, mayor valor.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img6.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Complejidad]. Si el ambiente está compuesto por elementos diversos es más valioso que uno simple.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img7.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Rareza]. Califica lo frecuente o raro de un elemento del entorno.
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img8.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Representatividad]. Determina el carácter simbólico del entrono (Incluye el carácter de endémico).
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img9.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Naturalidad]. En cuanto más natural sea un ambiente es más valioso.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img10.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Abundancia]. Cuando está en gran cantidad en el entorno.
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img11.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Diversidad]. Abundancia de elementos distintos en el entorno.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img12.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Estabilidad]. Permanencia en el entorno, firmeza.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img13.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Singularidad]. Valor adicional por la condición de distinto o distinguido.
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img14.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Irreversibilidad]. Imposibilidad de que cualquier alteración sea asimilada por el medio debido a mecanismos de autodepuración.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img15.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Fragilidad]. Vulnerabilidad y carácter perecedero de la cualidad del factor.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img16.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Continuidad]. Necesidad de conservación.
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Insustitubilidad]. Imposibilidad de ser sustituido.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img18.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Clímax]. Proximidad al punto de más alto valor ambiental de un proceso.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img19.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Interés ecológico]. Por su peculiaridad ecológica.
-              .row.justify-content-center
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img20.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Interés histórico-cultural]. Para las comunidadese interés individual para las personas.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img21.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Dificultad de conservación]. Dificultad es subsistencia en buen estado.
-                .col-10.col-md-8.mb-4
-                  .row
-                    .col-12.pe-4.py-4.bg-c8
-                      .row
-                        .col-auto.pe-0
-                          figure.fig-p1
-                            img(src='@/assets/curso/tema2/img22.svg', style="width: 40px").m-auto
-                        .col.ps-0
-                          p.mb-0 #[b Significación]. Importancia para la zona del entorno.
+
+            .d-none.d-md-block
+              SlyderA#idSlide1
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img5.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Extensión]. Refleja el área de influencia en relación con el entorno. A mayor extensión, mayor valor.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img6.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Complejidad]. Si el ambiente está compuesto por elementos diversos es más valioso que uno simple.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img7.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Rareza]. Califica lo frecuente o raro de un elemento del entorno.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img8.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Representatividad]. Determina el carácter simbólico del entrono (Incluye el carácter de endémico).
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img9.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Naturalidad]. En cuanto más natural sea un ambiente es más valioso.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img10.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Abundancia]. Cuando está en gran cantidad en el entorno.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img11.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Diversidad]. Abundancia de elementos distintos en el entorno.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img12.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Estabilidad]. Permanencia en el entorno, firmeza.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img13.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Singularidad]. Valor adicional por la condición de distinto o distinguido.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img14.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Irreversibilidad]. Imposibilidad de que cualquier alteración sea asimilada por el medio debido a mecanismos de autodepuración.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img15.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Fragilidad]. Vulnerabilidad y carácter perecedero de la cualidad del factor.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img16.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Continuidad]. Necesidad de conservación.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Insustitubilidad]. Imposibilidad de ser sustituido.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img18.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Clímax]. Proximidad al punto de más alto valor ambiental de un proceso.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img19.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Interés ecológico]. Por su peculiaridad ecológica.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img20.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Interés histórico-cultural]. Para las comunidades e interés individual para las personas.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img21.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Dificultad de conservación]. Dificultad es subsistencia en buen estado.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img22.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Significación]. Importancia para la zona del entorno.
+
+            .d-md-none
+              SlyderA(tipo="b")#idSlide2
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img5.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Extensión]. Refleja el área de influencia en relación con el entorno. A mayor extensión, mayor valor.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img6.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Complejidad]. Si el ambiente está compuesto por elementos diversos es más valioso que uno simple.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img7.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Rareza]. Califica lo frecuente o raro de un elemento del entorno.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img8.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Representatividad]. Determina el carácter simbólico del entrono (Incluye el carácter de endémico).
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img9.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Naturalidad]. En cuanto más natural sea un ambiente es más valioso.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img10.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Abundancia]. Cuando está en gran cantidad en el entorno.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img11.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Diversidad]. Abundancia de elementos distintos en el entorno.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img12.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Estabilidad]. Permanencia en el entorno, firmeza.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img13.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Singularidad]. Valor adicional por la condición de distinto o distinguido.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img14.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Irreversibilidad]. Imposibilidad de que cualquier alteración sea asimilada por el medio debido a mecanismos de autodepuración.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img15.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Fragilidad]. Vulnerabilidad y carácter perecedero de la cualidad del factor.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img16.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Continuidad]. Necesidad de conservación.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Insustitubilidad]. Imposibilidad de ser sustituido.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img18.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Clímax]. Proximidad al punto de más alto valor ambiental de un proceso.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img19.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Interés ecológico]. Por su peculiaridad ecológica.
+                .row.justify-content-center
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img20.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Interés histórico-cultural]. Para las comunidades e interés individual para las personas.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img21.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Dificultad de conservación]. Dificultad es subsistencia en buen estado.
+                  .col-10.col-md-8.mb-4
+                    .row
+                      .col-12.pe-4.py-4.bg-c8
+                        .row
+                          .col-auto.pe-0
+                            figure.fig-p1
+                              img(src='@/assets/curso/tema2/img22.svg', style="width: 40px").m-auto
+                          .col.ps-0
+                            p.mb-0 #[b Significación]. Importancia para la zona del entorno.
+
     p.mb-5 #[b.txt-c1 Continuando con Conesa (1997)], la capacidad de acogida es la aptitud que presenta un determinado territorio para recibir las consecuencias positivas y negativas que se pueden derivar de la construcción o el funcionamiento de un proyecto. Para su determinación se ha utilizado el concepto de la “sensibilidad ambiental” la cual se define como la mayor o menor capacidad de un sistema natural o social, para asimilar la acción de agentes externos sobre alguna de sus partes, sin que se produzcan cambios en la estructura o las propiedades de esas partes, de una magnitud tal que las alteren significativamente en comparación con su estado original.
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
@@ -306,11 +481,12 @@
       .col-12.bg-c11.py-3
         p La gestión del riesgo concierne a todo el mundo y nunca es responsabilidad exclusiva de la alta dirección, los gerentes ni del consultor de riesgos de la organización. Exige el compromiso y la energía desde la alta dirección hasta los empleados, quienes pueden ser los primeros en ver un incidente, un peligro potencial o una oportunidad de mejora. La información de entrada también puede provenir de las partes interesadas.
         p Como lo ilustra la trayectoria de retroalimentación todo el proceso de gestión del riesgo es iterativo. #[b El proceso se puede repetir muchas veces con criterios adicionales o modificados para la evaluación del riesgo que conducen a un proceso de mejora continua].
-    .titulo-sexto.color-acento-contenido.mb-4
-      p.mb-0 Figura 2. Panorama general de la gestión del riesgo
+    .titulo-sexto.color-acento-contenido.my-5
+      h5 Figura 2.
+      span Panorama general de la gestión del riesgo
     figure.mb-4
-      img(src='@/assets/curso/tema2/img27.svg', style="width: 930px", alt='').m-auto
-    .row.mb-5
+      img(src='@/assets/curso/tema2/img27.svg', style="max-width: 820px", alt='').m-auto
+    .row.mb-5.justify-content-center
       .col-auto
         p.txt-c2 Tomado de ICONTEC. (2009) Guía técnica colombiana GTC 104 Gestión del riesgo Ambiental Principios y proceso; p.2.
     p El riesgo ambiental se origina en la relación entre los seres humanos, sus actividades y el ambiente. La gestión del riesgo ecológico, que trata sobre los riesgos asociados con las actividades humanas pasadas, presentes y futuras sobre la flora, la fauna y los ecosistemas, es un subconjunto de la gestión del riesgo ambiental.

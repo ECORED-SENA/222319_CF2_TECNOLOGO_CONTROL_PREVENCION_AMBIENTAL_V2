@@ -49,7 +49,7 @@
         .row.m-1
           .col-lg-5.mb-4.mb-lg-0
             h4 Medidas de prevención
-            p Son acciones encaminadas a evitar los impactos y efectos negativos que pueda generar un proyecto, obra o actividad sobre el medio ambiente. Es decir, son aquellas medidas que buscan eliminar a priori las causas que pueden generar los impactos y, por lo tanto, hacen parte de la etapa de estudio y diseño del proyecto o antes de que se inicie la construcción.
+            p Son acciones #[strong encaminadas a evitar] los impactos y efectos negativos que pueda generar un proyecto, obra o actividad sobre el medio ambiente. Es decir, son aquellas medidas que buscan eliminar a priori las causas que pueden generar los impactos y, por lo tanto, hacen parte de la etapa de estudio y diseño del proyecto o antes de que se inicie la construcción.
             p.mb-0 Por ejemplo, como medidas de prevención se pueden implementar cambios en el diseño del proyecto, en los procesos de construcción u operación, en las tecnologías utilizadas, en su localización, en el calendario de trabajo, etc., los cuales tienen que ser incorporados al proyecto antes de su construcción.
           .col-lg-7
             figure
@@ -57,8 +57,8 @@
         .row.m-1
           .col-lg-5.mb-4.mb-lg-0
             h4 Medidas de mitigación
-            p Son acciones dirigidas a minimizar los impactos y efectos negativos de un proyecto, obra o actividad sobre el medio ambiente, o sea la implementación de acciones para limitar o eliminar los posibles efectos adversos del proyecto. Para lograr esta reducción, se deben considerar todas las posibilidades técnicas, administrativas u operacionales que puede tener el proyecto.
-            p.mb-0 Por ejemplo, para controlar la contaminación del agua por aguas residuales, se pueden utilizar sistemas de separación por gravedad o tratamientos biológicos o químicos, con lo cual se estaría reduciendo la cantidad de DBO que estaría llegando a los cuerpos de agua (magnitud) y por lo tanto minimizando la significancia del impacto ambiental (Con estas medidas se está actuando sobre el proyecto, sus tecnologías y procesos).
+            p Son acciones #[strong dirigidas a minimizar] los impactos y efectos negativos de un proyecto, obra o actividad sobre el medio ambiente, o sea la implementación de acciones para limitar o eliminar los posibles efectos adversos del proyecto. Para lograr esta reducción, se deben considerar todas las posibilidades técnicas, administrativas u operacionales que puede tener el proyecto.
+            p.mb-0 Por ejemplo, para controlar la contaminación del agua por aguas residuales, se pueden utilizar sistemas de separación por gravedad o tratamientos biológicos o químicos, con lo cual se estaría reduciendo la cantidad de DBO que estaría llegando a los cuerpos de agua (magnitud) y por lo tanto minimizando la significancia del impacto ambiental (#[strong Con estas medidas se está actuando sobre el proyecto, sus tecnologías y procesos]).
           .col-lg-7
             figure
               img(src='@/assets/curso/tema4/img5.png', style="width: 650px", alt='').m-auto

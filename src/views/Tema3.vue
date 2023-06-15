@@ -33,7 +33,7 @@
                     img(src='@/assets/curso/tema3/img2.svg', style="width: 100px", alt='').m-auto
                   h4.text-center La evaluación de los impactos ambientales
                   p Algunos autores la denominan también valoración y consiste en determinar la significancia de los cambios utilizando metodologías reconocidas.
-                  p.mb-0 Estas actividades junto con el manejo de la información que se genera con este proceso conforman el esquema para adelantar esta etapa del diagnóstico.
+
             .col-lg-8.bg-c16
               figure.mb-4
                 img(src='@/assets/curso/tema3/img3.svg', style="width: 100px", alt='').m-auto
@@ -98,18 +98,19 @@
                     img(src='@/assets/curso/tema3/img11.svg', style="width: 80px", alt='').m-auto
                   p.txt-c3 03
                   p.text-center.mb-0 Los requerimientos y disponibilidad de información.
+
+              .row.justify-content-center
                 .col-8.col-md-6.col-lg.m-2.bg-c18.px-4.pb-4.mb-5.mb-lg-0
                   figure.fig-p2.mb-0
                     img(src='@/assets/curso/tema3/img12.svg', style="width: 80px", alt='').m-auto
                   p.txt-c3 04
                   p.text-center.mb-0 La naturaleza de los impactos.
-              .row.justify-content-center
-                .col-8.col-md-6.col-lg-3.m-2.bg-c18.px-4.pb-4.mb-5.mb-lg-0
+                .col-8.col-md-6.col-lg.m-2.bg-c18.px-4.pb-4.mb-5.mb-lg-0
                   figure.fig-p2.mb-0
                     img(src='@/assets/curso/tema3/img13.svg', style="width: 80px", alt='').m-auto
                   p.txt-c3 05
                   p.text-center.mb-0 Los requisitos legales (específicamente los términos de referencia o las guías ambientales sectoriales).
-                .col-8.col-md-6.col-lg-3.m-2.bg-c18.px-4.pb-4.mb-5.mb-lg-0
+                .col-8.col-md-6.col-lg.m-2.bg-c18.px-4.pb-4.mb-5.mb-lg-0
                   figure.fig-p2.mb-0
                     img(src='@/assets/curso/tema3/img14.svg', style="width: 80px", alt='').m-auto
                   p.txt-c3 06
@@ -166,7 +167,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Cálculos de balance de materia")
             .col-12
-              p.mb-0 Están basados inicialmente en inventarios de condiciones existentes para compararlas con los cambios que resultarán de una acción propuesta. Tales inventarios son frecuentemente usados en los procesos de EIA en el contexto de las emisiones de contaminantes al aire, al agua, y la generación de residuos sólidos y peligrosos. Los cálculos de balance de materia requieren la descripción del área de estudio para establecer las condiciones iniciales. Una manera de expresar el impacto es considerar los cambios absolutos y porcentuales en el inventario (o balance de materia) como resultado de una acción propuesta.
+              p.mb-0 Están basados inicialmente en inventarios de condiciones existentes para compararlas con los cambios que resultarán de una acción propuesta. Tales inventarios son frecuentemente usados en los procesos de EIA en el contexto de las emisiones de contaminantes al aire, al agua, y la generación de residuos sólidos y peligrosos. Los #[strong cálculos de balance de materia] requieren la descripción del área de estudio para establecer las condiciones iniciales. Una manera de expresar el impacto es considerar los cambios absolutos y porcentuales en el inventario (o #[strong balance de materia]) como resultado de una acción propuesta.
           .row(titulo="Matrices de interacción")
             .col-12
               p.mb-0 Representan un tipo de método ampliamente usado en los procesos de EIA. Las variaciones de las matrices sencillas de interacción han sido desarrolladas para enfatizar rasgos característicos deseables, las matrices representan un tipo de método muy útil para el estudio de diversas actividades dentro de los procesos de EIA.
@@ -188,7 +189,7 @@
         .row.m-1
           .col-lg-5.mb-4.mb-lg-0
             h4 Sobreposición de mapas
-            p.mb-0 Método propuesto por McHarg (1969) y ha servido de base a otros métodos utilizados en la actualidad cuando se trata de localizar un pasillo o trazo lineal para vías de acceso, gasoductos o líneas de transmisión de energía eléctrica. Fue usado desde que comenzaron a requerirse las EIA, inicialmente consistió en un ensamble físico de mapas que desplegaban diferentes características ambientales, ahora se hace digitalmente. La tecnología de los sistemas de información geográfica (GIS) es una herramienta inspirada en este tipo de método bastante útil en los procesos de EIA. La sobreposición cartográfica de transparencias, físicamente o digitalizada, se usa para describir condiciones existentes y desplegar cambios potenciales resultantes de una acción propuesta.
+            p.mb-0 Método propuesto por McHarg (1969) y ha servido de base a otros métodos utilizados en la actualidad cuando se trata de localizar un pasillo o trazo lineal para vías de acceso, gasoductos o líneas de transmisión de energía eléctrica. Fue usado desde que comenzaron a requerirse las EIA, inicialmente consistió en un ensamble físico de mapas que desplegaban diferentes características ambientales, ahora se hace digitalmente. La tecnología de los sistemas de información geográfica (GIS) es una herramienta inspirada en este tipo de método bastante útil en los procesos de EIA. La #[strong sobreposición cartográfica de transparencias], físicamente o digitalizada, se usa para describir condiciones existentes y desplegar cambios potenciales resultantes de una acción propuesta.
           .col-lg-7
             figure
               img(src='@/assets/curso/tema3/img6.png', style="width: 650px", alt='').m-auto
@@ -241,16 +242,16 @@
         ul.lista-ul
           li
             i.fas.fa-check(style="color: #52C194")
-            | Listas de chequeo.
+            | Listas de chequeo
           li
             i.fas.fa-check(style="color: #52C194")
-            | Diagramas de redes.
+            | Diagramas de redes
           li
             i.fas.fa-check(style="color: #52C194")
-            | Superposición de mapas.
+            | Superposición de mapas
           li
             i.fas.fa-check(style="color: #52C194")
-            | Matrices causa - efecto.
+            | Matrices causa - efecto
       .col-8.col-lg-3.px-0
         figure
           img(src='@/assets/curso/tema3/img13.png', style="").m-auto
@@ -312,7 +313,9 @@
             h3.mb-0.px-4.py-3.text-white Paso 3. Identificación del riesgo
         .row.mb-5
           .co-12.bg-c18.p-4.p-lg-5
-            p.mb-4 El propósito de la identificación del riesgo es identificar lo que podrá suceder o cuáles situaciones podrían existir que afecten el logro de los objetivos del sistema o la organización.Los métodos para valorar el riesgo pueden incluir:
+            p.mb-3 El propósito de la identificación del riesgo es identificar lo que podrá suceder o cuáles situaciones podrían existir que afecten el logro de los objetivos del sistema o la organización.
+            p.mb-4 Los métodos para valorar el riesgo pueden incluir:
+
             .row.align-items-center.mb-4
               .col-auto
                 figure
@@ -343,7 +346,7 @@
                 thead
                   tr
                     th(style="width: 10%") Nivel
-                    th(style="width: 20%") Descripción
+                    th(style="width: 20%") Descriptor
                     th Descripción
                 tbody
                   tr
@@ -373,7 +376,7 @@
                 thead
                   tr
                     th(style="width: 10%") Nivel
-                    th(style="width: 20%") Descripción
+                    th(style="width: 20%") Descriptor
                     th Descripción
                 tbody
                   tr

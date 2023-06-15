@@ -64,7 +64,7 @@
                   img(src='@/assets/curso/tema1/img6.svg', style="width: 80px", alt='').m-auto
               .col.p-4
                 p.mb-0 También se destaca la Evaluación de Impacto Ambiental (EIA). Herramienta que permite determinar no solo las consecuencias ambientales de cualquier emprendimiento, sino también proponer las acciones necesarias para atender dichas secuelas.
-    p.mb-5 Sin embargo, se debe tener presente que el hecho de que un proyecto o actividad altere significativamente el ambiente, no significa que no sea viable, ya que la viabilidad no se mide por la generación de impactos positivos o negativos sino por la capacidad del ambiente de recuperarse ya sea por medios naturales o artificiales y de los promotores de los proyectos de hacer un manejo adecuado de los impactos; de tal forma, que se pueda garantizar un nuevo equilibrio proyecto ambiente que refleje en términos absolutos una igual o mejor calidad en las condiciones del ambiente afectado.
+    p.mb-5 Sin embargo, se debe tener presente que el hecho de que un proyecto o actividad altere significativamente el ambiente, no significa que no sea viable, ya que #[strong la viabilidad no se mide por la generación de impactos positivos o negativos sino por la capacidad del ambiente de recuperarse ya sea por medios naturales o artificiales] y de los promotores de los proyectos de hacer un manejo adecuado de los impactos; de tal forma, que se pueda garantizar un nuevo equilibrio proyecto ambiente que refleje en términos absolutos una igual o mejor calidad en las condiciones del ambiente afectado.
     .row.mb-5
       .col-12.bg-c5
         .row.align-items-center
