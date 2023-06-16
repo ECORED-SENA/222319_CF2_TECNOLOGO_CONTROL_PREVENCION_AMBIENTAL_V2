@@ -10,17 +10,34 @@
             img(src="@/assets/template/Arrastrar_Soltar.svg", alt="Actividad didáctica de relacionar términos")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Aspectos e impactos ambientales.
+          h2 Aspectos e impactos ambientales
         p.mb-4 Reconocer los impactos ambientales según su aspecto correspondiente para así diagnósticar correctamente en un plan de gestión ambiental.
+        .tarjeta.actividad.p-3
+          .row.justify-content-around.align-items-center
+            .col-sm.mb-3.mb-sm-0
+              p.fw-bold.mb-0 Relacionar términos
+            .col-auto
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad1/index.html')" target="_blank")
+                span Realizar
+                i.fas.fa-puzzle-piece
+
+    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+        .tarjeta.h-100.d-flex.align-items-center.p-4
+          figure
+            img(src="@/assets/template/Completar_espacios.svg", alt="Actividad didáctica de completar")
+      .col-12.col-md-8.col-lg-9
+        .titulo-segundo
+          h2 Clasificación de manejo ambiental
+        p.mb-4 Comprender cómo se clasifican las medidas de manejo ambiental de acuerdo a la acción implementada.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar coincidencias
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad2/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
-
 </template>
 
 <script>

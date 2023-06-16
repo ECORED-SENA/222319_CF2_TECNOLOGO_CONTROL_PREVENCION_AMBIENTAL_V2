@@ -37,7 +37,8 @@
       .col-12.bg-c12.p-4
         p.mb-0 #[b Para la formulación del PMA], es necesario volver a utilizar toda la información recolectada, procesada o producida en los elementos anteriores de la EIA, es decir, se requiere la información sobre el proyecto, en especial la de las ASPI, la información sobre el ambiente que puede ser afectado, en especial de las FARI y la información sobre los impactos. Igualmente, en este proceso se produce información que se debe incorporar a los estudios técnicos y económicos del proyecto en su conjunto, tales como los costos y los programas de ejecución del PMA.
     .titulo-sexto.color-acento-contenido.mb-4
-      p.mb-0 Figura 3. Esquema conceptual de la formulación del PMA
+      h5 Figura 3.
+      span Esquema conceptual de la formulación del PMA
     figure.mb-3
       img(src='@/assets/curso/tema4/img1.svg', style="width: 1150px", alt='').m-auto
 
@@ -73,7 +74,7 @@
         .row.m-1
           .col-lg-6.mb-4.mb-lg-0
             h4 Medidas de compensación
-            p Son las obras o actividades dirigidas a resarcir y retribuir a las comunidades, las regiones, localidades y entorno natural por los impactos o efectos negativos generados por un proyecto, obra o actividad, que no puedan ser evitados, corregidos, mitigados o sustituidos.   Se denominan también medidas de reemplazo y su propósito es compensar a la comunidad o al Estado por la pérdida de un recurso ambiental en un lugar determinado, con la conformación o creación de este mismo tipo de recurso en otro lugar. También aplican para el manejo de los impactos residuales o sea aquellos que no se pueden manejar completamente. Pueden comprender el pago en dinero a la comunidad para compensar la pérdida de actividades productivas o la construcción de obras o actividades para resarcir por el daño de un determinado recurso.
+            p Son las obras o actividades #[strong dirigidas a resarcir y retribuir] a las comunidades, las regiones, localidades y entorno natural por los impactos o efectos negativos generados por un proyecto, obra o actividad, que no puedan ser evitados, corregidos, mitigados o sustituidos.   Se denominan también medidas de #[strong reemplazo] y su propósito es compensar a la comunidad o al Estado por la pérdida de un recurso ambiental en un lugar determinado, con la conformación o creación de este mismo tipo de recurso en otro lugar. También aplican para el manejo de los impactos residuales o sea aquellos que no se pueden manejar completamente. Pueden comprender el pago en dinero a la comunidad para compensar la pérdida de actividades productivas o la construcción de obras o actividades para resarcir por el daño de un determinado recurso.
             p.mb-0 Por ejemplo, la pérdida de vegetación por efecto de un embalse se tiene que compensar con la creación de una zona forestal de condiciones similares a la inundada en otra zona, ya que físicamente es imposible reemplazarla en el mismo embalse.
           .col-lg-6
             figure
@@ -185,6 +186,21 @@
         .tarjeta.color-primario
           .p-4
             p.mb-0 Organización y personal propuesta para atenderla, incluyendo la asignación de responsabilidades a diferentes niveles.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema4/img16.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+          .p-4
+            p.mb-0 El cronograma de ejecución.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema4/img17.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+          .p-4
+            p.mb-0 Los costos de ejecución y mantenimiento. (incluyendo materiales, mano de obra, transporte, impuestos, imprevistos)
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema4/img18.svg' alt='AvatarTop')
+        .tarjeta.color-primario
+          .p-4
+            p.mb-0 Requerimientos de presentación de informes.
 
 </template>
 

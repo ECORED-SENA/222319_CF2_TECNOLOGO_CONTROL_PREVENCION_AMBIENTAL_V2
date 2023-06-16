@@ -269,31 +269,31 @@
                 ul.lista-ul
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Objetivos organizacionales de su proyecto formativo.
+                    span Objetivos organizacionales de su proyecto formativo.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Procesos productivos que se llevan a cabo al interior de la empresa.
+                    span Procesos productivos que se llevan a cabo al interior de la empresa.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Alcances de la operación de la empresa que hace parte del proyecto formativo.
+                    span Alcances de la operación de la empresa que hace parte del proyecto formativo.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Identificación de los #[i Stakeholders] de la empresa.
+                    span Identificación de los #[i Stakeholders] de la empresa.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Técnicas actuales de comunicación interna y externa realizada por la organización.
+                    span Técnicas actuales de comunicación interna y externa realizada por la organización.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Componentes del ambiente que se ven afectados por el desarrollo de la actividad económica.
+                    span Componentes del ambiente que se ven afectados por el desarrollo de la actividad económica.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Sistemas de gestión implementados en la empresa.
+                    span Sistemas de gestión implementados en la empresa.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Recursos disponibles para llevar a cabo la valoración del riesgo.
+                    span Recursos disponibles para llevar a cabo la valoración del riesgo.
                   li
                     i.fas.fa-check(style="color: #F6B84D")
-                    | Identificación del contexto Interno y externo de la organización. Para este punto, puede guiarse de la NTC-IEC-ISO31010 o en la ISO 14001: 2015.
+                    span Identificación del contexto Interno y externo de la organización. Para este punto, puede guiarse de la NTC-IEC-ISO31010 o en la ISO 14001: 2015.
               .col-lg-3
                 figure
                   img(src='@/assets/curso/tema3/img14.png', style="width: 350px", alt='').m-auto

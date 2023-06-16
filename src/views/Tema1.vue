@@ -26,7 +26,8 @@
             p.mb-0 Esta situación ha generado entonces un movimiento mundial que busca revertir, o por lo menos reducir esta tasa de deterioro, que se ha consolidado dentro del concepto de desarrollo sostenible que se empezó a acuñar desde la cumbre de Río. #[b Para consolidar los postulados del desarrollo sostenible, se han propuesto diferentes estrategias y mecanismos, tales como las que se muestra en la siguiente infografía].
 
     .titulo-sexto.color-acento-contenido.ms-0.mb-4.ml-0
-      p.mb-0 Figura 1. Postulados del desarrollo sostenible
+      h5 Figura 1.
+      span Postulados del desarrollo sostenible
     .row.mb-5
       .col-12.bg-c3.p-4
         .row.justify-content-center

@@ -224,14 +224,14 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
       ],
     },
@@ -241,18 +241,18 @@ export default {
         {
           nombre: 'Diana Carolina Triana Guarnizo',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Indutrial',
+          centro: 'Centro de Gestión Indutrial - Regional Distrito Capital',
         },
         {
           nombre: 'Juan Carlos Cárdenas Sánchez',
           cargo: 'Instructor',
-          centro: 'Centro de Gestión Indutrial',
+          centro: 'Centro de Gestión Indutrial - Regional Distrito Capital',
         },
         {
           nombre: 'Miroslava González Hernández',
           cargo: 'Diseñador Instruccional',
           centro:
-            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
+            'Centro Industrial del Diseño y La Manufactura - Regional Santander',
         },
       ],
     },
@@ -261,31 +261,31 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julian Ramirez Benitez',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
+            'Centro Industrial del Diseño y La Manufactura - Regional Santander',
         },
         {
           nombre: 'Francisco Jose Lizcano Reyes',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Floridablanca - Centro Industrial del Diseño y La Manufactura',
+            'Centro Industrial del Diseño y La Manufactura - Regional Santander',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Storyboard e ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Productor Multimedia',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Actividad didáctica',
+          cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -296,19 +296,19 @@ export default {
       autores: [
         {
           nombre: 'Zuleidy María Ruíz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Daniel Ricardo Mutis',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
