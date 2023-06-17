@@ -86,7 +86,7 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
+        icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
         download: 'downloads/pdf.pdf',
       },

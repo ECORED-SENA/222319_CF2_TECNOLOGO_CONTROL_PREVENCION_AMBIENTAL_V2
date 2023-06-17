@@ -66,8 +66,8 @@
         .row.m-1
           .col-lg-5.mb-4.mb-lg-0
             h4 Medidas de corrección
-            p Se dice que estas medidas son acciones dirigidas a recuperar, restaurar o reparar las condiciones del medio ambiente afectado por el proyecto, obra o actividad.   Es decir, son las medidas en las que se actúa directamente sobre el recurso afectado, tratando de restablecer las condiciones en las que se encontraba sin la presencia del proyecto.
-            p.mb-0 Por ejemplo, para controlar los efectos de las excavaciones sobre el suelo, se tienen que adelantar actividades de restauración o recuperación en el suelo directamente, tales como engramados, fertilizaciones, etc., (con estas medidas se está actuando sobre el recurso afectado).
+            p Se dice que estas medidas son acciones #[strong dirigidas a recuperar, restaurar o reparar] las condiciones del medio ambiente afectado por el proyecto, obra o actividad.   Es decir, son las medidas en las que se actúa directamente sobre el recurso afectado, tratando de restablecer las condiciones en las que se encontraba sin la presencia del proyecto.
+            p.mb-0 Por ejemplo, para controlar los efectos de las excavaciones sobre el suelo, se tienen que adelantar actividades de restauración o recuperación en el suelo directamente, tales como engramados, fertilizaciones, etc., (#[strong con estas medidas se está actuando sobre el recurso afectado]).
           .col-lg-7
             figure
               img(src='@/assets/curso/tema4/img6.png', style="width: 650px", alt='').m-auto
