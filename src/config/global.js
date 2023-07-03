@@ -31,28 +31,24 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'Impacto ambiental',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Valoración de impactos y riesgos ambientales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Metodologías de valoración de impactos ambientales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Medidas de manejo ambiental',
         desarrolloContenidos: true,
@@ -88,7 +84,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/pdf.pdf',
+        download: 'downloads/222319_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
