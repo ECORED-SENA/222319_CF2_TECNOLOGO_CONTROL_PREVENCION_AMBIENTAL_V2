@@ -59,7 +59,7 @@
           .col-lg-5.mb-4.mb-lg-0
             h4 Medidas de mitigación
             p Son acciones #[strong dirigidas a minimizar] los impactos y efectos negativos de un proyecto, obra o actividad sobre el medio ambiente, o sea la implementación de acciones para limitar o eliminar los posibles efectos adversos del proyecto. Para lograr esta reducción, se deben considerar todas las posibilidades técnicas, administrativas u operacionales que puede tener el proyecto.
-            p.mb-0 Por ejemplo, para controlar la contaminación del agua por aguas residuales, se pueden utilizar sistemas de separación por gravedad o tratamientos biológicos o químicos, con lo cual se estaría reduciendo la cantidad de DBO que estaría llegando a los cuerpos de agua (magnitud) y por lo tanto minimizando la significancia del impacto ambiental (#[strong Con estas medidas se está actuando sobre el proyecto, sus tecnologías y procesos]).
+            p.mb-0 Por ejemplo, para controlar la contaminación del agua por aguas residuales, se pueden utilizar sistemas de separación por gravedad o tratamientos biológicos o químicos, con lo cual se estaría reduciendo la cantidad de DBO que estaría llegando a los cuerpos de agua (magnitud) y, por lo tanto, minimizando la significancia del impacto ambiental (#[strong Con estas medidas se está actuando sobre el proyecto, sus tecnologías y procesos]).
           .col-lg-7
             figure
               img(src='@/assets/curso/tema4/img5.png', style="width: 650px", alt='').m-auto
@@ -74,12 +74,12 @@
         .row.m-1
           .col-lg-6.mb-4.mb-lg-0
             h4 Medidas de compensación
-            p Son las obras o actividades #[strong dirigidas a resarcir y retribuir] a las comunidades, las regiones, localidades y entorno natural por los impactos o efectos negativos generados por un proyecto, obra o actividad, que no puedan ser evitados, corregidos, mitigados o sustituidos.   Se denominan también medidas de #[strong reemplazo] y su propósito es compensar a la comunidad o al Estado por la pérdida de un recurso ambiental en un lugar determinado, con la conformación o creación de este mismo tipo de recurso en otro lugar. También aplican para el manejo de los impactos residuales o sea aquellos que no se pueden manejar completamente. Pueden comprender el pago en dinero a la comunidad para compensar la pérdida de actividades productivas o la construcción de obras o actividades para resarcir por el daño de un determinado recurso.
+            p Son las obras o actividades #[strong dirigidas a resarcir y retribuir] a las comunidades, las regiones, localidades y entorno natural por los impactos o efectos negativos generados por un proyecto, obra o actividad, que no puedan ser evitados, corregidos, mitigados o sustituidos.   Se denominan también medidas de #[strong reemplazo] y su propósito es compensar a la comunidad o al Estado por la pérdida de un recurso ambiental en un lugar determinado, con la conformación o creación de este mismo tipo de recurso en otro lugar. También aplican para el manejo de los impactos residuales, o sea aquellos que no se pueden manejar completamente. Pueden comprender el pago en dinero a la comunidad para compensar la pérdida de actividades productivas o la construcción de obras o actividades para resarcir por el daño de un determinado recurso.
             p.mb-0 Por ejemplo, la pérdida de vegetación por efecto de un embalse se tiene que compensar con la creación de una zona forestal de condiciones similares a la inundada en otra zona, ya que físicamente es imposible reemplazarla en el mismo embalse.
           .col-lg-6
             figure
               img(src='@/assets/curso/tema4/img7.png', style="width: 650px", alt='').m-auto
-    p.mb-4 Ahora bien, las medidas de manejo ambiental las define la empresa de acuerdo a sus impactos significativos o componentes afectados por esos impactos significativos. El Plan de manejo ambiental de control de emisiones (relaciona el impacto significativo) o Plan de manejo ambiental calidad del aire dirigido hacia el componente ambiental que esta vulnerado por el impacto), por ejemplo, son medidas por directrices de autoridades ambientales y si requiere cumplir términos de referencia o guías ambientales del sector para licencia ambiental.
+    p.mb-4 Ahora bien, las medidas de manejo ambiental las define la empresa de acuerdo a sus impactos significativos o componentes afectados por esos impactos significativos. El Plan de manejo ambiental de control de emisiones (relaciona el impacto significativo) o Plan de manejo ambiental calidad del aire (dirigido hacia el componente ambiental que está vulnerado por el impacto), por ejemplo, son medidas por directrices de autoridades ambientales y si requiere cumplir términos de referencia o guías ambientales del sector para licencia ambiental.
     .row.justify-content-center.mb-4
       .col-lg-10.bg-c4
         .row
@@ -88,7 +88,7 @@
               img(src='@/assets/curso/tema1/img6.svg', style="width: 80px", alt='').m-auto
           .col.p-4
             p.mb-0 #[b Ejemplos de manejo ambiental]
-            p.mb-0 Algunos de esos ejemplos son los mencionados por el libro de Arboleda (2008). Consultar páginas de la 112 a la 117 en donde se visibiliza, a través de una serie de tablas de listados genéricos, medidas para el manejo ambiental de algunos impactos, las cuales se realizan por componentes ambientales afectados, que a su vez son las más comunes de usar en un proyecto.
+            p.mb-0 Algunos de esos ejemplos son los mencionados por el <a href="https://www.academia.edu/34461272/Manual_EIA_Jorge_Arboleda_1_" target="_blank">libro de Arboleda (2008)</a>. Consultar páginas de la 112 a la 117 en donde se visibiliza, a través de una serie de tablas de listados genéricos, medidas para el manejo ambiental de algunos impactos, las cuales se realizan por componentes ambientales afectados, que a su vez son las más comunes de usar en un proyecto.
     p.mb-5 Con base en lo anterior, y en el material de consulta, es necesario determinar que no existe un procedimiento universal para la formulación de un plan de manejo de los impactos ambientales, por lo que este trabajo se apoya más en la experiencia y conocimiento de las personas que participan en la EIA. A continuación, se expone un proceso lógico que apunta en este sentido.
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-acento-botones(text-small)
@@ -100,7 +100,7 @@
                 figure.mb-2.mb-lg-0
                   img(src='@/assets/curso/tema4/img2.svg', style="width: 130px", alt='').m-auto
               .col
-                p.mb-0 El primer paso para poder identificar las medidas de manejo es conocer muy bien todo lo relacionado con el impacto, tal como la acción que lo origina, las consecuencias que genera, su área de influencia, los atributos con los cuales se presenta (magnitud, periodicidad, velocidad, duración, etc.). Igualmente es necesario conocer muy bien los factores ambientales que están siendo afectados, por dicho impacto: Sus condiciones iniciales (sin proyecto), sus probables condiciones finales (con proyecto), su susceptibilidad al cambio, su importancia (ecológica, económica, cultural, etc.), etc.
+                p.mb-0 El primer paso para poder identificar las medidas de manejo es conocer muy bien todo lo relacionado con el impacto, tal como la acción que lo origina, las consecuencias que genera, su área de influencia, los atributos con los cuales se presenta (magnitud, periodicidad, velocidad, duración, etc.). Igualmente, es necesario conocer muy bien los factores ambientales que están siendo afectados, por dicho impacto: Sus condiciones iniciales (sin proyecto), sus probables condiciones finales (con proyecto), su susceptibilidad al cambio, su importancia (ecológica, económica, cultural, etc.), etc.
         .row.justify-content-center(titulo="Paso 2")
           .col-10.bg-c18.p-4
             p #[b Análisis del marco normativo y empresarial.]
@@ -128,7 +128,7 @@
                 figure.mb-2.mb-lg-0
                   img(src='@/assets/curso/tema4/img5.svg', style="width: 130px", alt='').m-auto
               .col
-                p Algunas medidas de manejo tienen características similares, ya sea porque sirven de solución a impactos similares, atienden impactos sobre un mismo componente o factor ambiental o tienen tantas cosas en común que se pueden atender por medio de una misma medida. En este caso y con el propósito de optimizar los recursos y aprovechar las sinergias entre diferentes acciones, se recomienda agrupar estas medidas en una sola.
+                p Algunas medidas de manejo tienen características similares, ya sea porque sirven de solución a impactos similares, atienden impactos sobre un mismo componente o factor ambiental o tienen tantas cosas en común que se pueden atender por medio de una misma medida. En este caso, y con el propósito de optimizar los recursos y aprovechar las sinergias entre diferentes acciones, se recomienda agrupar estas medidas en una sola.
                 p.mb-0 Por ejemplo, se puede tener una medida para el control de la erosión que implique el uso de coberturas vegetales (engramados, reforestación, etc.), otra medida para tratamiento paisajístico que requiere también la utilización de vegetación y una medida de compensación para reponer un área determinada de vegetación destruida. Estas tres medidas que implican la producción, uso y trabajos con material vegetal, se podrían agrupar en una sola que se llame, por ejemplo: Proyecto de tratamientos con vegetación y que incluya todas las actividades necesarias para atender todos los impactos donde se necesite el uso, manejo y tratamiento con vegetación.
         .row.justify-content-center(titulo="Paso 5")
           .col-10.bg-c18.p-4

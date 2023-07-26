@@ -27,7 +27,7 @@
                   figure.mb-5
                     img(src='@/assets/curso/tema3/img1.svg', style="width: 100px", alt='').m-auto
                   h4.text-center.text-white La identificación de los impactos
-                  p.text-white.mb-0 Corresponde a la determinación de la existencia de un cambio en alguna de las condiciones ambientales por efecto de unas acciones de la organización o proyecto. Básicamente es el procedimiento de interrelacionar las ASPI y las FARI, para determinar donde se generan cambios en los factores ambientales.
+                  p.text-white.mb-0 Corresponde a la determinación de la existencia de un cambio en alguna de las condiciones ambientales por efecto de unas acciones de la organización o proyecto. Básicamente, es el procedimiento de interrelacionar las ASPI y las FARI, para determinar donde se generan cambios en los factores ambientales.
                 .col-md-8.col-lg.bg-c14.p-4.m-lg-2.mb-4.mb-lg-0
                   figure.mb-5
                     img(src='@/assets/curso/tema3/img2.svg', style="width: 100px", alt='').m-auto
@@ -37,12 +37,12 @@
             .col-lg-8.bg-c16
               figure.mb-4
                 img(src='@/assets/curso/tema3/img3.svg', style="width: 100px", alt='').m-auto
-              p.text-center.mb-4 Estas actividades junto con el manejo de la información que se genera con este proceso conforman el esquema para adelantar esta etapa del diagnóstico.
+              p.text-center.mb-4 Estas actividades, junto con el manejo de la información que se genera con este proceso, conforman el esquema para adelantar esta etapa del diagnóstico.
               .row.justify-content-around.mb-4
                 .col-5.bg-c15.p-4
-                  p.text-center.text-white.mb-0 #[b Acciones del proyecto suceptibles de producir impacto.]
+                  p.text-center.text-white.mb-0 #[b Acciones del proyecto susceptibles de producir impacto.]
                 .col-5.bg-c15.p-4
-                  p.text-center.text-white.mb-0 #[b Factores ambientales suceptibles de recibir impacto.]
+                  p.text-center.text-white.mb-0 #[b Factores ambientales susceptibles de recibir impacto.]
             figure.mb-3
               img(src='@/assets/curso/tema3/img5.svg', style="width: 30px", alt='').m-auto
             .col-md-10.col-lg-6.bg-white.p-4.mb-4
@@ -115,7 +115,7 @@
                     img(src='@/assets/curso/tema3/img14.svg', style="width: 80px", alt='').m-auto
                   p.txt-c3 06
                   p.text-center.mb-0 Los recursos técnicos, financieros y de tiempo disponibles.
-    p.mb-5 Las metodologías no proporcionan respuestas completas a todas las preguntas sobre los impactos de un posible proyecto o conjunto de alternativas ni son libros de cocina que conduzcan a un fin con solo seguir las indicaciones.
+    p.mb-5 Las metodologías no proporcionan respuestas completas a todas las preguntas sobre los impactos de un posible proyecto o conjunto de alternativas, ni son libros de cocina que conduzcan a un fin con solo seguir las indicaciones.
     .row.justify-content-center.mb-5
       .col-lg-10
         p.text-center.mb-0 #[b Canter y Sadler en 1997 clasificaron las metodologías para la evaluación de impacto ambiental en 15 grupos listados alfabéticamente y no en orden de importancia o de uso, los cuales se describen a continuación:]
@@ -124,19 +124,19 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Analógicos")
             .col-12
-              p.mb-0 Básicamente se remite a la información de proyectos existentes de un tipo similar al que está siendo analizado por un estudio de impacto. La información obtenida en la medición y seguimiento de los impactos ambientales actuales puede ser usada como una analogía a los impactos anticipados del proyecto propuesto. Además de que, clases similares de proyectos se pueden utilizar para un programa de seguimiento que desarrolle información sobre la huella del impacto de un proyecto propuesto.
+              p.mb-0 Básicamente, se remite a la información de proyectos existentes de un tipo similar al que está siendo analizado por un estudio de impacto. La información obtenida en la medición y seguimiento de los impactos ambientales actuales puede ser usada como una analogía a los impactos anticipados del proyecto propuesto. Además de que, clases similares de proyectos se pueden utilizar para un programa de seguimiento que desarrolle información sobre la huella del impacto de un proyecto propuesto.
           .row(titulo="Listas de chequeo")
             .col-12
               p.mb-0 Hay muchas variedades de listas de chequeo, este tipo de metodología es la más frecuentemente utilizada en los procesos de EIA. Típicamente, la lista de chequeo contiene una serie de puntos, asuntos de impacto o cuestiones que el usuario atenderá o contestará como parte del estudio de impacto. Tales listas de chequeo representan recordatorios útiles para identificar impactos y proporcionar una base sistemática y reproducible para el proceso de EIA.
           .row(titulo="Listas de chequeo enfocadas a decisiones")
             .col-12
-              p.mb-0 Representan un grupo de métodos los cuales están inicialmente referidas a comparar alternativas y conducir a un análisis de equilibrio. En este considerando, tales métodos son inicialmente útiles para la síntesis de información de estudios de impacto. Cada alternativa viable está sujeta a estudio. El proceso de EIA consistiría de una fase de análisis y una fase de síntesis, las listas de chequeo para decisiones pueden ser útiles para ambas fases, con particular valor asociado a la fase de síntesis. Hay varios tipos listas de chequeo para decisiones y está fuera del alcance de este trabajo resumir completamente todos los tipos.
+              p.mb-0 Representan un grupo de métodos, los cuales están inicialmente referidas a comparar alternativas y conducir a un análisis de equilibrio. En este considerando, tales métodos son inicialmente útiles para la síntesis de información de estudios de impacto. Cada alternativa viable está sujeta a estudio. El proceso de EIA consistiría de una fase de análisis y una fase de síntesis, las listas de chequeo para decisiones pueden ser útiles para ambas fases, con particular valor asociado a la fase de síntesis. Hay varios tipos listas de chequeo para decisiones y está fuera del alcance de este trabajo resumir completamente todos los tipos.
           .row(titulo="Análisis ambiental coste-beneficio")
             .col-12
-              p.mb-0 (Environmental Cost-Benefit Análysis ECBA). Este método complementa el tradicional análisis de coste-beneficio con una atención adicional a los recursos naturales y su valor económico. Su aplicación a la evaluación económica de impactos específicos de un proyecto propuesto y alternativos tiene considerables limitaciones.
+              p.mb-0 (#[em Environmental Cost-Benefit Análysis ECBA]). Este método complementa el tradicional análisis de coste-beneficio con una atención adicional a los recursos naturales y su valor económico. Su aplicación a la evaluación económica de impactos específicos de un proyecto propuesto y alternativos tiene considerables limitaciones.
           .row(titulo="Opinión de expertos")
             .col-12
-              p.mb-0 También puede ser referido como Dictamen Profesional. Representa un tipo ampliamente usado de métodos dentro del proceso de evaluación de impacto ambiental. Este método se utiliza normalmente para señalar los impactos específicos de un proyecto sobre los diferentes componentes medioambientales. Las herramientas específicas dentro de la categoría de opinión de expertos que pueden utilizarse para delinear información incluyen estudios Delphi y el uso del proceso adaptativo de evaluación ambiental. Con este enfoque los grupos de expertos identifican la información apropiada y elaboran modelos cualitativos/cuantitativos para la predicción de impactos o para simular procesos medioambientales.
+              p.mb-0 También puede ser referido como Dictamen Profesional. Representa un tipo ampliamente usado de métodos dentro del proceso de evaluación de impacto ambiental. Este método se utiliza normalmente para señalar los impactos específicos de un proyecto sobre los diferentes componentes medioambientales. Las herramientas específicas dentro de la categoría de opinión de expertos que pueden utilizarse para delinear información incluyen estudios Delphi y el uso del proceso adaptativo de evaluación ambiental. Con este enfoque, los grupos de expertos identifican la información apropiada y elaboran modelos cualitativos/cuantitativos para la predicción de impactos o para simular procesos medioambientales.
       .col-lg-6.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema3/img3.png', style="width:550px", alt='').m-auto
@@ -149,13 +149,13 @@
           .row(titulo="Sistemas expertos")
             .col-12
               p.mb-0 Consiste en recoger el conocimiento profesional y el juicio de expertos en áreas temáticas específicas y de actualidad. Tal conocimiento es codificado, a través de una serie de reglas o experiencias prácticas (heurísticas), en entornos de sistemas informáticos computacionales. Los Sistemas Expertos son típicamente amigables al usuario y sólo requieren la respuesta a una serie de preguntas para conducir a un análisis particular. Se está incrementado la atención al desarrollo de sistemas expertos más exhaustivos para los procesos de EIA.
-          .row(titulo="Indices o indicadores")
+          .row(titulo="Índices o indicadores")
             .col-12
               p Se refiere a características específicas o integradas de factores medioambientales o recursos. Se utilizan dentro de los estudios de impacto para representar parámetros de amplitud de medios o recursos. Específicamente, los índices se refieren a información numérica o bien información catalogada. Se usa como sistema auxiliar para describir los ambientes afectados, así como para la predicción y evaluación de impactos.
               p.mb-0 Los índices numéricos o descriptivos se han desarrollado como una medida de la vulnerabilidad del medio ambiente y los recursos a la contaminación u otras acciones humanas y han probado su utilidad en la comparación de localizaciones para una actividad propuesta. Sobre estas bases, pueden ser formuladas las medidas para minimizar los impactos ambientales e incluir controles.
           .row(titulo="Pruebas de laboratorio y modelos a escala")
             .col-12
-              p Se pueden aplicar para conseguir información cualitativa / cuantitativa sobre impactos anticipados de un determinado tipo de proyecto en una localización geográfica dada. Aunque este tipo de métodos no han sido extensamente usados son apropiados para ciertos proyectos.
+              p Se pueden aplicar para conseguir información cualitativa / cuantitativa sobre impactos anticipados de un determinado tipo de proyecto en una localización geográfica dada. Aunque este tipo de métodos no han sido extensamente usados, son apropiados para ciertos proyectos.
           .row(titulo="Evaluación de paisajes")
             .col-12
               p.mb-0 Son inicialmente útiles para la valoración de recursos estéticos o visuales. Tales métodos están basados típicamente en el desarrollo de información derivada de una serie de indicadores y la subsiguiente adición de dicha información sobre una puntuación global o índice para el escenario ambiental. Esta información puede ser usada como representativa de las condiciones de partida. El potencial impacto estético o visual de un proyecto propuesto puede entonces ser estimado otra vez sobre los registros base o índices, por ejemplo, la comparación con y sin proyecto.
@@ -224,7 +224,7 @@
         .row.m-1
           .col-lg-5.mb-4.mb-lg-0
             h4 Evaluación de riesgo
-            p.mb-0 Es una herramienta emergente para la práctica de EIA. Inicialmente fue usada para establecer estándares ambientales basados en temas de salud humana. La evaluación de riesgos típicamente abarca la identificación de los riesgos, consideraciones sobre la relación dosis-repuesta, conducción de una evaluación a la exposición, y evaluación del riesgo asociado. Esta aplicación puede ser usada tanto para riesgo a la salud humana como para riesgo ecológico.
+            p.mb-0 Es una herramienta emergente para la práctica de EIA. Inicialmente, fue usada para establecer estándares ambientales basados en temas de salud humana. La evaluación de riesgos típicamente abarca la identificación de los riesgos, consideraciones sobre la relación dosis-repuesta, conducción de una evaluación a la exposición, y evaluación del riesgo asociado. Esta aplicación puede ser usada tanto para riesgo a la salud humana como para riesgo ecológico.
           .col-lg-7
             figure
               img(src='@/assets/curso/tema3/img11.png', style="width: 650px", alt='').m-auto
@@ -236,7 +236,7 @@
             figure
               img(src='@/assets/curso/tema3/img12.png', style="width: 650px", alt='').m-auto
     p.mb-4 Para seleccionar una metodología, se recomienda tomar en cuenta algunas características importantes como: #[b si da una visión global, si es selectivo, mutuamente excluyente, si considera la incertidumbre, si es objetivo e interactivo.]
-    p.mb-5 #[b Entre las varias metodologías generales existentes cualitativas y/o cuantitativas más usadas son:]
+    p.mb-5 #[b Entre las varias metodologías generales existentes, cualitativas y/o cuantitativas, las más usadas son:]
     .row.justify-content-center.mb-5
       .col-8.col-lg-3.bg-c4.p-4
         ul.lista-ul
@@ -331,7 +331,7 @@
                   li
                     i.fas.fa-check(style="color: #F6B84D")
                     | Técnicas de razonamiento inductivo.
-            p.mb-0 En ese sentido es importante tener en cuenta la caja de herramientas presentada en la norma NTC-IEC-ISO31010.
+            p.mb-0 En ese sentido, es importante tener en cuenta la caja de herramientas presentada en la norma NTC-IEC-ISO31010.
         .row.mb-4
           .col-auto.bg-c6
             h3.mb-0.px-4.py-3.text-white Paso 4. Análisis de riesgos
@@ -381,7 +381,7 @@
                 tbody
                   tr
                     td.text-center #[b 1]
-                    td Catastrofico
+                    td Catastrófico
                     td Muerte, liberación de tóxicos en lugares alejados con efecto nocivo, enormes costos financieros.
                   tr
                     td.text-center #[b 2]

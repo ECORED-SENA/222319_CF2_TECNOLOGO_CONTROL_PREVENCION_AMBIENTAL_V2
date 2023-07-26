@@ -23,7 +23,7 @@
         .row
           .col-12.bg-c2.p-4
             p El resultado de esta relación proyecto-ambiente a lo largo del tiempo ha conducido a un proceso de deterioro o pérdida de la calidad ambiental que se ha acentuado en las últimas décadas, llegando a extremos preocupantes, en algunas ocasiones insostenibles o desembocando en situaciones de tipo global, que están poniendo en riesgo la salud, el bienestar y aún la supervivencia del ser humano.
-            p.mb-0 Esta situación ha generado entonces un movimiento mundial que busca revertir, o por lo menos reducir esta tasa de deterioro, que se ha consolidado dentro del concepto de desarrollo sostenible que se empezó a acuñar desde la cumbre de Río. #[b Para consolidar los postulados del desarrollo sostenible, se han propuesto diferentes estrategias y mecanismos, tales como las que se muestra en la siguiente infografía].
+            p.mb-0 Esta situación ha generado entonces un movimiento mundial que busca revertir o, por lo menos, reducir esta tasa de deterioro, que se ha consolidado dentro del concepto de desarrollo sostenible que se empezó a acuñar desde la cumbre de Río. #[b Para consolidar los postulados del desarrollo sostenible, se han propuesto diferentes estrategias y mecanismos, tales como las que se muestra en la siguiente infografía].
 
     .titulo-sexto.color-acento-contenido.ms-0.mb-4.ml-0
       h5 Figura 1.
@@ -65,7 +65,7 @@
                   img(src='@/assets/curso/tema1/img6.svg', style="width: 80px", alt='').m-auto
               .col.p-4
                 p.mb-0 También se destaca la Evaluación de Impacto Ambiental (EIA). Herramienta que permite determinar no solo las consecuencias ambientales de cualquier emprendimiento, sino también proponer las acciones necesarias para atender dichas secuelas.
-    p.mb-5 Sin embargo, se debe tener presente que el hecho de que un proyecto o actividad altere significativamente el ambiente, no significa que no sea viable, ya que #[strong la viabilidad no se mide por la generación de impactos positivos o negativos sino por la capacidad del ambiente de recuperarse ya sea por medios naturales o artificiales] y de los promotores de los proyectos de hacer un manejo adecuado de los impactos; de tal forma, que se pueda garantizar un nuevo equilibrio proyecto ambiente que refleje en términos absolutos una igual o mejor calidad en las condiciones del ambiente afectado.
+    p.mb-5 Sin embargo, se debe tener presente que el hecho de que un proyecto o actividad altere significativamente el ambiente, no significa que no sea viable, ya que #[strong la viabilidad no se mide por la generación de impactos positivos o negativos, sino por la capacidad del ambiente de recuperarse, ya sea por medios naturales o artificiales] y de los promotores de los proyectos de hacer un manejo adecuado de los impactos; de tal forma, que se pueda garantizar un nuevo equilibrio proyecto ambiente que refleje en términos absolutos una igual o mejor calidad en las condiciones del ambiente afectado.
     .row.mb-5
       .col-12.bg-c5
         .row.align-items-center
@@ -74,7 +74,7 @@
               img(src='@/assets/curso/tema1/img2.png', style="width: 300px", alt='').m-auto
           .col-lg-8
             p.mb-0 Es por eso que se puede decir en términos generales que el objetivo de la evaluación de impacto ambiental, es encontrar las soluciones que den armonía a la relación proyecto/sistema ambiental.
-    p.mb-5 De lo que se trata es de estudiar el medio, descubrir los procesos y funciones de sus componentes, analizar su sensibilidad, o sea el grado de vulnerabilidad, sus debilidades y fortalezas, para diagnosticar su real capacidad de recuperación frente a las acciones y procesos producidos por la obra y su energía desplegada, y suplir con medidas artificiales los desajustes de la relación proyecto/ambiente.” (Charla del profesor Manuel Zárate, Panamá, 2004) (Citado por Arboleda, J. A. (2008).
+    p.mb-5 De lo que se trata es de estudiar el medio, descubrir los procesos y funciones de sus componentes, analizar su sensibilidad, o sea el grado de vulnerabilidad, sus debilidades y fortalezas, para diagnosticar su real capacidad de recuperación frente a las acciones y procesos producidos por la obra y su energía desplegada, y suplir con medidas artificiales los desajustes de la relación proyecto/ambiente. (Charla del profesor Manuel Zárate, Panamá, 2004) (Citado por Arboleda, J. A., 2008).
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-secundario.p-3
@@ -117,7 +117,7 @@
     .row.mb-4
       .col-auto.bg-c6
         h3.mb-0.px-4.py-3.text-white Aspectos e impactos ambientales
-    p.mb-5 Se presentan algunas tablas que se relacionan como Anexos en el Manual de Evaluación de Impactos Ambientales para proyectos, obra actividades, de Arboleda (2008); recurso que se encuentra en el material de apoyo, páginas de la 15 a la 18.
+    p.mb-5 Se sugiere revisar algunas tablas que se relacionan en el <a href="https://www.academia.edu/34461272/Manual_EIA_Jorge_Arboleda_1_" target="_blank">Manual de Evaluación de Impactos Ambientales</a> para proyectos, obra, actividades, de Arboleda (2008), páginas de la 15 a la 18.
     .row.align-items-center
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -125,7 +125,7 @@
       .col-lg-8
         .row
           .col-12.p-4.bg-c7
-            p.mb-0 #[b De igual forma, se puede resumir que es indispensable identificar los componentes ambientales en el área de influencia directa e indirecta] y comprender los procesos a los que se dedica la organización a manera de plano de localización y diagrama de flujo de procesos, tal y como se ejemplifica en las páginas 24 a 26 del Manual de Evaluación de Impactos Ambientales para proyectos, obra actividades, de Arboleda (2008).
+            p.mb-0 #[b De igual forma, se puede resumir que es indispensable identificar los componentes ambientales en el área de influencia directa e indirecta] y comprender los procesos a los que se dedica la organización a manera de plano de localización y diagrama de flujo de procesos, tal y como se ejemplifica en las páginas 24 a 26.
 
 </template>
 

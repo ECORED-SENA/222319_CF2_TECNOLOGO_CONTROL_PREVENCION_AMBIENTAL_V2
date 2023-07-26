@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Aspectos e impactos ambientales
-        p.mb-4 Reconocer los impactos ambientales según su aspecto correspondiente para así diagnósticar correctamente en un plan de gestión ambiental.
+        p.mb-4 Reconocer los impactos ambientales según su aspecto correspondiente para así diagnosticar correctamente en un plan de gestión ambiental.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0

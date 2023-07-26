@@ -89,7 +89,7 @@
                             figure.fig-p1
                               img(src='@/assets/curso/tema2/img6.svg', style="width: 40px").m-auto
                           .col.ps-0
-                            p.mb-0 #[b Complejidad]. Si el ambiente está compuesto por elementos diversos es más valioso que uno simple.
+                            p.mb-0 #[b Complejidad]. Si el ambiente está compuesto por elementos diversos, es más valioso que uno simple.
                   .col-10.col-md-8.mb-4
                     .row
                       .col-12.pe-4.py-4.bg-c8
@@ -108,7 +108,7 @@
                             figure.fig-p1
                               img(src='@/assets/curso/tema2/img8.svg', style="width: 40px").m-auto
                           .col.ps-0
-                            p.mb-0 #[b Representatividad]. Determina el carácter simbólico del entrono (Incluye el carácter de endémico).
+                            p.mb-0 #[b Representatividad]. Determina el carácter simbólico del entorno (Incluye el carácter de endémico).
                   .col-10.col-md-8.mb-4
                     .row
                       .col-12.pe-4.py-4.bg-c8
@@ -117,7 +117,7 @@
                             figure.fig-p1
                               img(src='@/assets/curso/tema2/img9.svg', style="width: 40px").m-auto
                           .col.ps-0
-                            p.mb-0 #[b Naturalidad]. En cuanto más natural sea un ambiente es más valioso.
+                            p.mb-0 #[b Naturalidad]. En cuanto más natural sea, un ambiente es más valioso.
                   .col-10.col-md-8.mb-4
                     .row
                       .col-12.pe-4.py-4.bg-c8
@@ -476,11 +476,11 @@
             figure
               img(src='@/assets/curso/tema2/img4.png', style="width: 430px", alt='').m-auto
           .col-lg-8
-            p.mb-0 #[b La gestión del riesgo comprende la cultura], procesos y estructuras que se orientan hacia el aprovechamiento de las oportunidades potenciales al tiempo que se manejan los efectos adversos. (ICONTEC, 2006).
+            p.mb-0 #[b La gestión del riesgo] comprende la cultura, procesos y estructuras que se orientan hacia el aprovechamiento de las oportunidades potenciales, al tiempo que se manejan los efectos adversos. (ICONTEC, 2006).
     .row.mb-4
       .col-12.bg-c11.py-3
         p La gestión del riesgo concierne a todo el mundo y nunca es responsabilidad exclusiva de la alta dirección, los gerentes ni del consultor de riesgos de la organización. Exige el compromiso y la energía desde la alta dirección hasta los empleados, quienes pueden ser los primeros en ver un incidente, un peligro potencial o una oportunidad de mejora. La información de entrada también puede provenir de las partes interesadas.
-        p Como lo ilustra la trayectoria de retroalimentación todo el proceso de gestión del riesgo es iterativo. #[b El proceso se puede repetir muchas veces con criterios adicionales o modificados para la evaluación del riesgo que conducen a un proceso de mejora continua].
+        p Como lo ilustra la trayectoria de retroalimentación, todo el proceso de gestión del riesgo es iterativo. #[b El proceso se puede repetir muchas veces con criterios adicionales o modificados para la evaluación del riesgo que conducen a un proceso de mejora continua].
     .titulo-sexto.color-acento-contenido.my-5
       h5 Figura 2.
       span Panorama general de la gestión del riesgo

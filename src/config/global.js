@@ -102,13 +102,11 @@ export default {
     {
       referencia:
         'Arboleda, J. A. (2008). Manual de evaluación de impacto ambiental de proyectos, obra o actividades. Medellin, Colombia.',
-      link: 'https://doi.org/10.1017/CBO9781107415324.004',
+      link: 'https://www.academia.edu/34461272/Manual_EIA_Jorge_Arboleda_1_',
     },
     {
       referencia:
         'Conesa V. (1993). La Evaluación del Impacto Ambiental. (2da ed.). Mundi Prensa: Madrid, España.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
     },
     {
       referencia:
