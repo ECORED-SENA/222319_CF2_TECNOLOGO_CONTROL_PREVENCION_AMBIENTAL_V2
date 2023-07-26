@@ -138,7 +138,7 @@ export default {
     {
       termino: 'Ciclo de vida',
       significado:
-        'etapas consecutivas e interrelacionadas de un sistema de producto (o servicio) , desde la adquisición de materia prima o su generación a partir de recursos naturales hasta la disposición final. (NTC ISO 14001:2015)',
+        'etapas consecutivas e interrelacionadas de un sistema de producto (o servicio), desde la adquisición de materia prima o su generación a partir de recursos naturales hasta la disposición final. (NTC ISO 14001:2015)',
     },
     {
       termino: 'Evaluación de Impacto Ambiental',
